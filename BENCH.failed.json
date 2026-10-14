@@ -1,0 +1,10 @@
+{
+  "project": "CHROMIUM",
+  "category": "CONSUMER_ELECTRONICS",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CONSUMER_ELECTRONICS\\CHROMIUM",
+  "status": "bench_timeout",
+  "reason": "exceeded 600s cap",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
