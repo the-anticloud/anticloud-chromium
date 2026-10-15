@@ -1,0 +1,32 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.4",
+ "version": 1,
+ "metadata": {
+  "component": {
+   "type": "application",
+   "name": "CHROMIUM",
+   "description": "Anticloud overlay SBOM (bench subprocess unavailable)"
+  }
+ },
+ "components": [
+  {
+   "type": "library",
+   "name": "__init__.py",
+   "version": "1.0.0",
+   "scope": "required"
+  },
+  {
+   "type": "library",
+   "name": "_version.py",
+   "version": "1.0.0",
+   "scope": "required"
+  },
+  {
+   "type": "library",
+   "name": "cli.py",
+   "version": "1.0.0",
+   "scope": "required"
+  }
+ ]
+}
